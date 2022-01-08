@@ -6,4 +6,4 @@ def circleArea(r):
 
 r = float(argv[1])
 
-print(f"Diện tích hình tròn bán kính {r} là {circleArea(5)}")
+print(f"Diện tích hình tròn bán kính {r} là {circleArea(r)}")
