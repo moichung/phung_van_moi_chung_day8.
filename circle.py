@@ -7,3 +7,8 @@ def circleArea(r):
 r = float(argv[1])
 
 print(f"Diện tích hình tròn bán kính {r} là {circleArea(r)}")
+
+# git add
+# git status
+# git log --all --oneline
+# git commit -m "some mesage"
